@@ -153,7 +153,6 @@ mysql> SELECT available_tickets, reserved_tickets, total_capacity
 +-------------------+------------------+----------------+
 1 row in set (0.00 sec)
 
-```
 
 $$\text{available\_tickets } (0) + \text{reserved\_tickets } (100) = \text{total\_capacity } (100)$$
 
